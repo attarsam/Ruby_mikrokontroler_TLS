@@ -30,7 +30,7 @@ Upload kode program ke mikrokontroler.
 
 # Link Kode
 
-[Tautan ke kode program di sini]
+[[Tautan ke kode program di sini]](https://github.com/attarsam/Ruby_mikrokontroler_TLS/blob/main/Mikon.ino)
 
 # Link Skematik
 
