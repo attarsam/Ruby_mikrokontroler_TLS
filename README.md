@@ -34,5 +34,5 @@ Upload kode program ke mikrokontroler.
 
 # Link Skematik
 
-[Tautan ke skematik rangkaian di sini]
+[[Tautan ke skematik rangkaian di sini]](https://github.com/attarsam/Ruby_mikrokontroler_TLS/blob/main/WiringMikonTLSRubyRevisi.pdf)
 
